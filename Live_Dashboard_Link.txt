@@ -1,0 +1,4 @@
+View the full interactive SQL Analytics Dashboard here: 
+https://app.thebricks.com/file/577aadab-c23f-413b-929d-6f9e6d687301?permissionId=7e72cd59-48e7-407a-98f6-92240d009411
+
+⚡ Note: When you open the link, you’ll see a button on the page. Click that button to view the dashboard in full-screen mode and explore all insights interactively.
